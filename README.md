@@ -1,4 +1,4 @@
-# projetofinalpp
+# Projeto Final Programação Paralela e Distribuída
 
 # Descrição do Projeto
 Código em Python que simula um sistema de Proof of Work (PoW) com comunicação entre nós, incluindo diferentes estados (aceitando, rejeitando, propondo) e simulação de mineração/validação de blocos. A implementação também inclui um nó coordenador, nós participantes, lógica de falha e recuperação, e logs detalhados para acompanhamento do processo de consenso.
